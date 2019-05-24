@@ -1,3 +1,5 @@
 class EmailParser
-  attr_accessor :parse
+
+  
+  def parse(string)
 end

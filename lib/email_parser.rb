@@ -8,6 +8,7 @@ class EmailParser
   def parse 
     @emails.split.collect do |e_mail|
       e_mail.split(",")
+      
   end
     
 end

@@ -9,6 +9,4 @@ class EmailParser
     
   end
     
-  
-  
 end

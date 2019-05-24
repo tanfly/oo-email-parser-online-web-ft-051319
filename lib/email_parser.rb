@@ -6,7 +6,8 @@ class EmailParser
   end
   
   def parse 
-    @emails 
+    @emails.split.collect do |email|
+      email.
   end
     
 end
